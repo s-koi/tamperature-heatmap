@@ -1,5 +1,4 @@
 import * as d3 from 'd3';
-import { autoType } from 'd3';
 import React, {useEffect, useState} from "react";
 
 function SelectYear({handleChange}){ // 表示する年を選択
